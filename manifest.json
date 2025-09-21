@@ -1,16 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Zhuangzy's Cencter Control Group"
+    "OrganizationName": "Zhuangzy's Cencter Control Group",
         "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/labjobs/cl.control.cfg.linquan.n3ms.8.14/labjobs/cl.control.cfg.linquan.n3ms.8.14/master/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/labjobs/cl.control.cfg.linquan.n3ms.8.14/master/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/labjobs/cl.control.cfg.linquan.n3ms.8.14/master/subjects.json",
         "Version": 1
     }
 }
